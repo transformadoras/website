@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://transformadoras.dev"
 title = "Creative portfolio"
 theme = "portfolio"
 languageCode = "en-us"
