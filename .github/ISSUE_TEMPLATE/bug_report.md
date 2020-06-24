@@ -1,7 +1,7 @@
 ---
 nome: Relatório de erro
-about: Crie um relatório para nos ajudar a melhorar
-title: ''
+sobre: Crie um relatório para nos ajudar a melhorar
+título: ''
 marcadores: ''
 cessionários: ''
 
