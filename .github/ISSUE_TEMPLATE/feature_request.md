@@ -1,7 +1,7 @@
 ---
 nome: solicitação de recurso
-about: Sugira uma ideia para este projeto
-title: ''
+sobre: Sugira uma ideia para este projeto
+título: ''
 marcadores: ''
 cessionários: ''
 
